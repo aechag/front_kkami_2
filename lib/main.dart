@@ -25,11 +25,11 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home:MusicApp(),
-      /*routes: {
+      // home:MusicApp(),
+      routes: {
         '/': (context) => const LearnFlutter(),
         '/second': (context) => MusicApp(),
-      },*/
+      },
     );
   }
 }
