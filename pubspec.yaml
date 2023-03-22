@@ -40,7 +40,7 @@ dependencies:
   path_provider: ^2.0.9
   http: ^0.13.4
   path: ^1.8.0
-  dio: ^4.0.6
+  dio: ^5.0.3
   image_picker: ^0.8.5
   camera: ^0.9.4+21
   camera_web: ^0.2.1+3
